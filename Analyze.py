@@ -3,7 +3,7 @@ import matplotlib.pyplot as plt
 import numpy as np
 
 
-def import_data():
+def import_data(): rt
     """
     Import data from the TTC Bus Delay dataset
     """
